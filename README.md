@@ -11,16 +11,7 @@ Connect with me:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yazan_lwa" height="30" width="40" />
   </a>
 </p>
-Languages and Tools:
-<p align="center">
-  <!-- Icons -->
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazan&show_icons=true&locale=en&layout=compact" alt="yazan" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazan&show_icons=true&locale=en" alt="yazan" />
-</p>
+
 Fortnite Map Creations
 Explore my collection of custom-designed Fortnite islands, where each map is a testament to my dedication and creativity in the world of game design.
 
