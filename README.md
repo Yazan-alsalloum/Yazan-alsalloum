@@ -15,6 +15,13 @@
 
 <p align="center">
   <img src="Schermafbeelding 2024-02-26 160128.png" alt="Your Name" style="border-radius:50%">
-   <img src="1v1.png" alt="Your Name" style="border-radius:50%">
+   <img src="1v1min.png" alt="Your Name" style="border-radius:50%">
+  <img src="aim.png" alt="Your Name" style="border-radius:50%">
+  <img src="free.png" alt="Your Name" style="border-radius:50%">
+  <img src="red.png" alt="Your Name" style="border-radius:50%">
+  <img src="tomato.png" alt="Your Name" style="border-radius:50%">
+  <img src="trio" alt="Your Name" style="border-radius:50%">
+  <img src="zone.png" alt="Your Name" style="border-radius:50%">
+  
 </p>
 
