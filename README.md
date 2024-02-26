@@ -19,7 +19,7 @@ School Email: d273050@edu.curio.nl
 - **Programming Languages:** C#, JavaScript, Python, PHP
 - **Frameworks:** Laravel
 - **Databases:** MySQL
-- **Other Tools:** Git, HTML5, CSS3, Unreal Engine
+- **Other Tools:** Git, HTML5, CSS3, Unreal Engine 5 fortnite, Blender
 
 
 
