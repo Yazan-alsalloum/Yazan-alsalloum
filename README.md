@@ -9,8 +9,7 @@ I'm a passionate second-year software developer with a keen interest in building
 ### Connect with me:
 
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/yazan_lwa/)
-
-- Email: d273050@edu.curio.nl
+School Email: d273050@edu.curio.nl
 
 <br />
 
