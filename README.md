@@ -20,7 +20,7 @@
   <img src="free.png" alt="Your Name" style="border-radius:50%">
   <img src="red.png" alt="Your Name" style="border-radius:50%">
   <img src="tomato.png" alt="Your Name" style="border-radius:50%">
-  <img src="trio" alt="Your Name" style="border-radius:50%">
+  <img src="trio.png" alt="Your Name" style="border-radius:50%">
   <img src="zone.png" alt="Your Name" style="border-radius:50%">
   
 </p>
