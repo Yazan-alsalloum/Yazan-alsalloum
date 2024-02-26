@@ -15,3 +15,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazan&show_icons=true&locale=en&layout=compact" alt="yazan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazan&show_icons=true&locale=en" alt="yazan" /></p>
+
+
+<p align="center">
+  <img src="Schermafbeelding 2024-02-26 160128.png" alt="Your Name" style="border-radius:50%">
+</p>
+
