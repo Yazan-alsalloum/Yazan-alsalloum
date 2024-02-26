@@ -18,13 +18,7 @@ I'm a passionate second-year software developer with a keen interest in building
 - **Databases:** MySQL
 - **Other Tools:** Git, HTML5, CSS3, Unreal Engine
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazan&show_icons=true&locale=en&layout=compact" alt="yazan" />
-</div>
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yazan&show_icons=true&locale=en" alt="yazan" />
-</div>
 
 ## Fortnite Map Creations
 
