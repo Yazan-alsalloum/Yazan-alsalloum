@@ -15,5 +15,6 @@
 
 <p align="center">
   <img src="Schermafbeelding 2024-02-26 160128.png" alt="Your Name" style="border-radius:50%">
+   <img src="1v1.png" alt="Your Name" style="border-radius:50%">
 </p>
 
